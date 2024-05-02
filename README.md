@@ -188,7 +188,7 @@ int main(){
 }
 ```
 #### Output:
-![Screenshot 2024-05-02 212656](https://github.com/grahenmaryamrb/Praktikum-Struktur-Data-Assignment-1/assets/168741067/afb0f91d-4b32-4086-93f5-d40a5cbbf68d)
+![Screenshot 2024-05-02 212656](https://github.com/grahenmaryamrb/Praktikum-Struktur-Data-Assignment-1/assets/168741067/4a3010aa-e84b-48b3-ae97-49fba33d3c25)
 ### Penjelasan
 Program dimulai dengan memasukkan header <iostream> untuk memungkinkan input-output di C++. using namespace std; digunakan agar kita dapat menggunakan objek dan fungsi dari namespace std tanpa menuliskan std:: setiap kali. Konstanta pi dideklarasikan dengan nilai 3.14 yang digunakan dalam perhitungan rumus tabung. Deklarasi dua fungsi yang akan digunakan untuk menghitung volume dan luas permukaan tabung. Fungsi-fungsi ini menerima jari-jari dan tinggi tabung sebagai parameter dan mengembalikan hasil perhitungan. Fungsi main() merupakan titik awal eksekusi program. Variabel PilihMenu digunakan untuk menyimpan pilihan pengguna (1 untuk menghitung volume, 2 untuk menghitung luas permukaan).
 Program menampilkan menu pilihan kepada pengguna dan meminta input berupa pilihan menu.Switch-case digunakan untuk memproses pilihan pengguna. Jika pengguna memilih 1, program akan meminta input jari-jari dan tinggi dan menghitung volume tabung. Jika pengguna memilih 2, program akan meminta input jari-jari dan tinggi dan menghitung luas permukaan tabung. Jika pilihan tidak valid, program akan menampilkan pesan bahwa pilihan tidak tersedia.
@@ -253,7 +253,7 @@ int main(){
 }
 ```
 #### Output:
-![Screenshot 2024-05-02 212919](https://github.com/grahenmaryamrb/Praktikum-Struktur-Data-Assignment-1/assets/168741067/50f22551-fdd7-464a-874d-662b149b32bd)
+![Screenshot 2024-05-02 212919](https://github.com/grahenmaryamrb/Praktikum-Struktur-Data-Assignment-1/assets/168741067/4dcfc411-d257-4e47-813a-c769a0532643)
 ### Penjelasan
 a) Class: fungsi class merupakan fungsi yang sering digunakan pada Object Oriented Programming (OOP) dan mengandung atribut (variabel) dan method (fungsi) yang sering didefinisikan sebagai perilaku dan sifatnya. Akses kontrol dari class adalah private. Dalam program ini, class Buku tidak digunakan secara langsung tetapi mewakili sebuah kelas dengan anggota private.
 
@@ -303,7 +303,7 @@ int main() {
 }
 ```
 #### Output:
-![Screenshot 2024-05-02 213059](https://github.com/grahenmaryamrb/Praktikum-Struktur-Data-Assignment-1/assets/168741067/3b458696-f998-4910-b349-03c9d80c2957)![Uploading Screenshot 2024-05-02 213059.png…]()
+![Screenshot 2024-05-02 213059](https://github.com/grahenmaryamrb/Praktikum-Struktur-Data-Assignment-1/assets/168741067/43d73373-e950-41cc-8d24-e136b9064112)
 ### Penjelasan
 Map adalah struktur data asosiatif yang memungkinkan penyimpanan dan pengaksesan data berdasarkan kunci yang unik. Map disini digunakan untuk menyimpan kunci nilai yang mewakili hari dalam seminggu. Perbedaannya adalah Array menggunakan indeks berbasis integer yang dimulai dari 0 dan secara berurutan tetapi kurang fleksibel sedangkan Map mengizinkan kunci dari berbagai tipe data dan tidak harus berurutan atau berbasis integer dan  fleksible dalam penambahan, penghapusan, atau modifikasi dengan mudah.
 
